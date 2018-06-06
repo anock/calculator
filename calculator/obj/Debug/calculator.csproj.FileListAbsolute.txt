@@ -1,0 +1,7 @@
+c:\users\anock\documents\visual studio 2015\Projects\calculator\calculator\bin\Debug\calculator.exe
+c:\users\anock\documents\visual studio 2015\Projects\calculator\calculator\bin\Debug\calculator.pdb
+c:\users\anock\documents\visual studio 2015\Projects\calculator\calculator\obj\Debug\calculator.Form1.resources
+c:\users\anock\documents\visual studio 2015\Projects\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+c:\users\anock\documents\visual studio 2015\Projects\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.Cache
+c:\users\anock\documents\visual studio 2015\Projects\calculator\calculator\obj\Debug\calculator.exe
+c:\users\anock\documents\visual studio 2015\Projects\calculator\calculator\obj\Debug\calculator.pdb
